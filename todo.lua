@@ -1,0 +1,5 @@
+-- ~~ TODO: Add github dependency resolve ~~
+-- TODO: Add pkg-config dependency resolve
+-- TODO: Clean up code
+-- TODO: Comment code
+-- Consider adding emscripten support for opengl & glfw if both are found as dependency as --wasm?
